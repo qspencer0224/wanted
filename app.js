@@ -1,0 +1,4 @@
+const changePic = () =>{
+    let newpic = document.querySelector('.pic')
+    newpic.setAttribute('src', "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb3b5a4f-6de2-4e44-8b57-ea55bc65fc86/dckqywj-30cea7d4-b5c1-44f9-bba9-906977ba1d02.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViM2I1YTRmLTZkZTItNGU0NC04YjU3LWVhNTViYzY1ZmM4NlwvZGNrcXl3ai0zMGNlYTdkNC1iNWMxLTQ0ZjktYmJhOS05MDY5NzdiYTFkMDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aV95kqKlHGUQ3UYZQ6o995yej1DCD5_CnaIv28oACOs")
+};
