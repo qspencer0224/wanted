@@ -16,25 +16,41 @@ body{
   margin-left: 110px;
   margin-top: 20px;
 }
-h3{
-  font-size: large;
+.wantedtext{
+  margin-top: 10px;
+  color: red;
   font-weight: bold;
+  font-family: 'instrument serif';
+  font-stretch: ultra-expanded;
+  font-size: 35px;
   text-align: center;
 }
-h2{
-  color: red;
+.who{
+  font-family: 'ultra';
+  color: black;
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+}
+.reward{
+  color: blue;
+  font-family: 'instrument serif';
   font-size: 30px;
   font-weight: bold;
   text-align: center;
 }
 .money{
   color: green;
+  font-family: 'ultra';
   font-size: 40px;
   font-weight: bold;
   text-align: center;
 }
-h1{
-  font-size: 30px;
+.contact{
+  margin-top: 10px;
+  font-family: 'instrument serif';
+  font-size: 20px;
   font-weight: bold;
   text-align: center;
 }
